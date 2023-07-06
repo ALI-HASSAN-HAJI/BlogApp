@@ -1,0 +1,4 @@
+/* This star selector is a universal selector which will then allow us to add styles all the css elements */
+* {
+  margin: 0;
+}
